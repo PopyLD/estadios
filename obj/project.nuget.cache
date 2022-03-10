@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1RJ4fo5i2eEG47Yn3Gkw5aVFQNPtYDfmhWR0eShfMPhEsz2Iz+3ywsWeRF1P1ifcXbfd0yjkvApE4Vi79DwV2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raul Alberto Leon\\source\\repos\\testMundiales\\testMundiales.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raul Alberto Leon\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

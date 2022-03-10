@@ -1,0 +1,15 @@
+C:\Users\Raul Alberto Leon\source\repos\testMundiales\bin\Debug\netcoreapp3.1\testMundiales.exe
+C:\Users\Raul Alberto Leon\source\repos\testMundiales\bin\Debug\netcoreapp3.1\testMundiales.deps.json
+C:\Users\Raul Alberto Leon\source\repos\testMundiales\bin\Debug\netcoreapp3.1\testMundiales.runtimeconfig.json
+C:\Users\Raul Alberto Leon\source\repos\testMundiales\bin\Debug\netcoreapp3.1\testMundiales.runtimeconfig.dev.json
+C:\Users\Raul Alberto Leon\source\repos\testMundiales\bin\Debug\netcoreapp3.1\testMundiales.dll
+C:\Users\Raul Alberto Leon\source\repos\testMundiales\bin\Debug\netcoreapp3.1\testMundiales.pdb
+C:\Users\Raul Alberto Leon\source\repos\testMundiales\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Raul Alberto Leon\source\repos\testMundiales\obj\Debug\netcoreapp3.1\testMundiales.csproj.AssemblyReference.cache
+C:\Users\Raul Alberto Leon\source\repos\testMundiales\obj\Debug\netcoreapp3.1\testMundiales.AssemblyInfoInputs.cache
+C:\Users\Raul Alberto Leon\source\repos\testMundiales\obj\Debug\netcoreapp3.1\testMundiales.AssemblyInfo.cs
+C:\Users\Raul Alberto Leon\source\repos\testMundiales\obj\Debug\netcoreapp3.1\testMundiales.csproj.CoreCompileInputs.cache
+C:\Users\Raul Alberto Leon\source\repos\testMundiales\obj\Debug\netcoreapp3.1\testMundiales.csproj.CopyComplete
+C:\Users\Raul Alberto Leon\source\repos\testMundiales\obj\Debug\netcoreapp3.1\testMundiales.dll
+C:\Users\Raul Alberto Leon\source\repos\testMundiales\obj\Debug\netcoreapp3.1\testMundiales.pdb
+C:\Users\Raul Alberto Leon\source\repos\testMundiales\obj\Debug\netcoreapp3.1\testMundiales.genruntimeconfig.cache
